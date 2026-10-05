@@ -1,4 +1,5 @@
 # 🤖 Robot Delta — Análisis, Control y Puesta en Funcionamiento
+![UN_logo](images/un.jpg)
 
 ## 📌 Descripción
 
@@ -72,13 +73,13 @@ flowchart TD
 
 ## 📚 Etapas del proyecto
 
-### 1. [Investigación de Cadenas Cinematicas( Movilidad y DOFs)] (Analisis_cinematico/Readme.md)
+### 1. [Investigación de Cadenas Cinematicas( Movilidad y DOFs)](Analisis_cinematico/Readme.md)
 
 ### 2. [Análisis cinemático](Cinematica/Readme.md)
 
 ### 3. [Modelado y simulación](Simulacion/Readme.md)
 
-### 4.[Evidencias y Resultados]
+### 4.[Evidencias y Resultados](Resultados/Readme.md)
 
 ##  📰Referencias
 
