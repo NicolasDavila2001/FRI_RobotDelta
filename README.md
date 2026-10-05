@@ -1,5 +1,5 @@
 # 🤖 Robot Delta — Análisis, Control y Puesta en Funcionamiento
-![UN_logo](images/un.jpg)
+![UN_logo](images/un.png)
 
 ## 📌 Descripción
 
